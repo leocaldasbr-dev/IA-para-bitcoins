@@ -1,55 +1,61 @@
-🚀 Guia de Investimento em Bitcoin e Criptoativos
-Este repositório é um hub de conhecimento focado em estratégias de investimento, segurança e análise do mercado de criptomoedas, com foco especial nas perspectivas para 2026
+📚 Caderno Temático: Investimento Estratégico em Bitcoin e Criptoativos (Perspectiva 2026)
+Este repositório foi desenvolvido como parte de um projeto prático de aprendizagem ativa, utilizando o NotebookLM para consolidar conhecimentos sobre o ecossistema de criptomoedas, focando em estratégias de longo prazo e segurança digital.
+📌 Contexto e Objetivos
+O mercado de criptoativos está em uma fase de transição técnica e consolidação estrutural
+ O objetivo deste caderno é transformar informações complexas em um guia acessível para investidores iniciantes.
+Objetivos de Estudo:
+Compreender os fundamentos do Bitcoin (BTC) e da tecnologia Blockchain
 
-📌 Visão Geral
-O mercado de criptoativos está passando por uma fase de consolidação estrutural, afastando-se da volatilidade descontrolada para se tornar um ativo macro sensível à liquidez global
- Este projeto visa desmistificar conceitos para iniciantes e fornecer ferramentas para uma jornada de investimento consciente
+Analisar as perspectivas macroeconômicas e regulatórias para o ano de 2026
 
-🧠 Conceitos Fundamentais
-Bitcoin (BTC): A primeira e mais segura criptomoeda, operando em uma rede descentralizada chamada Blockchain
+Dominar estratégias de acumulação como DCA (Dollar-Cost Averaging) e HODL
 
-Escassez Programada: Diferente das moedas fiduciárias, o Bitcoin tem um suprimento limitado de 21 milhões de unidades
+Avaliar métodos de custódia segura (Auto-custódia vs. Exchanges)
 
-O Halving: Evento que ocorre a cada 4 anos, reduzindo a emissão de novos bitcoins pela metade e gerando pressão positiva nos preços
+📂 Curadoria de Fontes
+Para este estudo, foram selecionadas as seguintes fontes abertas integradas ao NotebookLM:
+Guia Completo de Bitcoin (YouTube): Vídeo educativo detalhando a lógica do dinheiro e o funcionamento da blockchain
 
-Blockchain: Um livro contábil público, imutável e transparente onde todas as transações são registradas
+Perspectivas Globais e Locais de Investimento em Bitcoin em 2026 (Markdown): Análise técnica sobre a ruptura do ciclo de 4 anos e o papel do capital institucional
 
-📈 Estratégias de Investimento
-Para gerenciar riscos em um mercado de renda variável, exploramos as seguintes metodologias:
-DCA (Dollar Cost Averaging): Aportes fixos em intervalos regulares para reduzir o impacto da volatilidade e obter um preço médio de compra favorável
+Guia de Custo Médio de Aquisição (DCA) - Kraken (Web): Guia exaustivo sobre a matemática por trás da diluição de riscos pela média harmônica
 
-HODL: A estratégia de manter ativos a longo prazo, ignorando flutuações momentâneas de mercado
+Melhores Corretoras de Criptomoedas no Brasil 2026 - iDinheiro (Web): Comparativo de taxas, segurança e conformidade regulatória das principais exchanges
 
-Alocação Core-Satellite: Manter a maior parte do portfólio (80%) em ativos sólidos como Bitcoin e uma parte menor (20%) em moedas promissoras com alto potencial tecnológico, como Solana, Chainlink ou Bittensor
+🧠 Engenharia de Prompts e "Cicatrizes"
+Abaixo, documento o processo de interação com a IA para a construção deste material:
+Prompt 1 (Exploratório): "Explique os fundamentos do Bitcoin para alguém que nunca investiu."
+Resultado: A IA trouxe conceitos básicos, mas faltava profundidade sobre o cenário de 2026.
+Prompt 2 (Estratégico): "Compare as vantagens tributárias de investir em ETFs na B3 versus comprar Bitcoin diretamente no mercado spot no Brasil."
 
-🔒 Segurança e Custódia
-A segurança é o pilar mais importante. Discutimos a diferença crucial entre:
-Exchanges (Corretoras): Práticas para compra imediata, mas onde a chave privada não pertence ao usuário
+Dificuldade: Inicialmente, a IA não considerou a isenção de R$ 35 mil para alienações mensais
+ PreciseI refinar o prompt pedindo para incluir a legislação brasileira específica.
+Prompt 3 (Segurança): "Quais os riscos de manter criptoativos em exchanges centralizadas em 2026?"
 
-Auto-custódia (Wallets): O uso de carteiras frias (hardware wallets) para garantir que o investidor seja o único dono de seus ativos
+Insight: Descobri que quase 44% dos furtos em 2024 vieram de vazamentos de chaves privadas corporativas, o que reforçou a necessidade de estudar auto-custódia
 
-Lembre-se: "Not your keys, not your coins"
+📖 Miniguia de Estudo (Entrega Final)
+1. Resumo Estruturado do Assunto
+O Bitcoin como Ouro Digital: O Bitcoin resolve o problema da inflação das moedas fiduciárias através da escassez programada (limite de 21 milhões de unidades) e do Halving, que reduz a emissão de novas moedas periodicamente
 
-📊 O Mercado em 2026
-Adoção Institucional: O crescimento de ETFs (como HASH11, BITH11 e QBTC11) facilita o acesso de investidores tradicionais via B3
+Metodologias de Investimento: O método DCA é recomendado para mitigar a volatilidade, permitindo que o investidor compre mais frações quando o preço cai, resultando em um custo médio inferior à média aritmética do mercado
 
-Tokenização (RWA): A transformação de ativos do mundo real em tokens digitais é uma das grandes tendências do setor para os próximos anos
+Custódia e Soberania: O lema "Not your keys, not your coins" é central. Enquanto exchanges oferecem liquidez imediata, a auto-custódia multissinatura (multisig) é a forma mais resiliente de proteger o patrimônio contra falhas de plataformas
 
-Cenário Macroeconômico: A política de juros do Federal Reserve (Fed) continua sendo o principal driver de preço para ativos de risco como o Bitcoin
+2. Glossário de Conceitos Aprendidos
+Blockchain: Livro contábil público, transparente e imutável que registra todas as transações da rede
 
-🛠️ Ferramentas Recomendadas
-Exchanges Seguras: Binance, OKX e Mercado Bitcoin
+DCA (Dollar-Cost Averaging): Estratégia de aportes fixos em intervalos regulares para reduzir o impacto emocional e a volatilidade
 
-Análise Técnica: TradingView para acompanhamento de gráficos e indicadores como o Fear and Greed Index
+ETF (Exchange Traded Fund): Fundo de índice negociado em bolsa que permite exposição ao Bitcoin sem a necessidade de gerir chaves privadas (Ex: HASH11, BITH11)
 
-Wallets: Ledger, Trezor e Trust Wallet
+Hashrate: Medida do poder computacional total usado para minerar e processar transações na rede; quanto maior, mais segura é a rede
 
-⚠️ Disclaimer
-Atenção: Investir em criptomoedas envolve alto risco de perda de capital
-. Este repositório tem fins estritamente educativos e não constitui recomendação de investimento
-. Recomenda-se nunca investir mais do que você pode perder
+HODL: Mentalidade de manter o ativo a longo prazo, independentemente de pânicos momentâneos do mercado
 
-Como Contribuir
-Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request com novas análises e dados sobre o ecossistema cripto.
-Dica para o seu Repositório:
-Como você está criando um repositório de conhecimento, pode ser interessante adicionar uma pasta chamada /docs ou /wiki e colocar arquivos .md detalhando cada um desses tópicos (ex: dca_strategy.md, safety_guide.md).
+3. Conjunto de Prompts Reutilizáveis
+"Resuma os últimos indicadores de medo e ganância (Fear and Greed Index) e o que eles indicam sobre o momento atual de compra."
+
+"Explique passo a passo como configurar uma hardware wallet para garantir a auto-custódia dos meus bitcoins."
+
+"Como as decisões de taxa de juros do Federal Reserve (Fed) impactam o preço do Bitcoin em 2026?"
